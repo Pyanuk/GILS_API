@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\TheDare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\Girls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\Sex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
+      "PackagePath": "staticwebassets\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
+      "PackagePath": "staticwebassets\\Media\\Covers\\Statick\\TheDare\\Whats.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\allnight.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\allnight.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\bloodwork.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\bloodwork.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\elevation.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\elevation.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\girls.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\girls.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\goodtime.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\goodtime.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\idestroyeddisco.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\idestroyeddisco.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\lca.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\lca.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\movement.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\movement.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\openup.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\openup.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\perfume.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\perfume.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\sex.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\sex.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\youcanevergohome.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\youcanevergohome.mp3"
+    },
+    {
+      "Id": "C:\\Users\\rhali\\Desktop\\SoundPlayerAPI\\wwwroot\\Media\\Track\\TheDare\\youreinvited.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\TheDare\\youreinvited.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SoundPlayerAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SoundPlayerAPI.props",
+      "PackagePath": "build\\SoundPlayerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SoundPlayerAPI.props",
+      "PackagePath": "buildMultiTargeting\\SoundPlayerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SoundPlayerAPI.props",
+      "PackagePath": "buildTransitive\\SoundPlayerAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,256 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/ArtistPhoto/TheDare.0kag5m46wj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\ArtistPhoto\TheDare.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0kag5m46wj"},{"Name":"integrity","Value":"sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/ArtistPhoto/TheDare.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117754"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 02:21:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/ArtistPhoto/TheDare.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\ArtistPhoto\TheDare.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"117754"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 02:21:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/Girls.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\Girls.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB\u002BY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"27986"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 03:30:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/Girls.jxim3m3h5m.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\Girls.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jxim3m3h5m"},{"Name":"integrity","Value":"sha256-qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB\u002BY="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/Girls.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27986"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 03:30:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/GoodTime.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\GoodTime.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ntphpKEMNnWlotXT4LcgPSwVJE8hzWX\u002BHgubp5KK7U0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"259681"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ntphpKEMNnWlotXT4LcgPSwVJE8hzWX\u002BHgubp5KK7U0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:23:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/GoodTime.yw85tryjde.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\GoodTime.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yw85tryjde"},{"Name":"integrity","Value":"sha256-ntphpKEMNnWlotXT4LcgPSwVJE8hzWX\u002BHgubp5KK7U0="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/GoodTime.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"259681"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ntphpKEMNnWlotXT4LcgPSwVJE8hzWX\u002BHgubp5KK7U0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:23:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/Perfume.9donckdeec.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\Perfume.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9donckdeec"},{"Name":"integrity","Value":"sha256-43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/Perfume.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57133"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002243h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:25:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/Perfume.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\Perfume.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"57133"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002243h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:25:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/Sex.a54938516x.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\Sex.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a54938516x"},{"Name":"integrity","Value":"sha256-PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/Sex.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44488"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:24:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/Sex.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\Sex.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44488"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:24:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/YoureInvited.g4uvncv89a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\YoureInvited.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g4uvncv89a"},{"Name":"integrity","Value":"sha256-wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/YoureInvited.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55386"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:25:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Clips/Cover/TheDare/YoureInvited.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Clips\Cover\TheDare\YoureInvited.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"55386"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:25:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Covers/Statick/TheDare/SexEP.4s6ds1ytrd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Covers\Statick\TheDare\SexEP.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4s6ds1ytrd"},{"Name":"integrity","Value":"sha256-bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Covers/Statick/TheDare/SexEP.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"118112"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Covers/Statick/TheDare/SexEP.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Covers\Statick\TheDare\SexEP.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"118112"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Covers/Statick/TheDare/Whats.2zi15l9eqv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Covers\Statick\TheDare\Whats.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2zi15l9eqv"},{"Name":"integrity","Value":"sha256-Tr\u002BV2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Covers/Statick/TheDare/Whats.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1087368"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Tr\u002BV2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Covers/Statick/TheDare/Whats.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Covers\Statick\TheDare\Whats.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Tr\u002BV2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1087368"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Tr\u002BV2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/allnight.aubh6kxwto.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\allnight.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aubh6kxwto"},{"Name":"integrity","Value":"sha256-zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/allnight.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9338326"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/allnight.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\allnight.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9338326"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/bloodwork.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\bloodwork.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx\u002BQ4zgfbQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9569219"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx\u002BQ4zgfbQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/bloodwork.usdz8v72qw.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\bloodwork.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"usdz8v72qw"},{"Name":"integrity","Value":"sha256-ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx\u002BQ4zgfbQ="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/bloodwork.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9569219"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx\u002BQ4zgfbQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/elevation.hiccd34gfe.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\elevation.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hiccd34gfe"},{"Name":"integrity","Value":"sha256-p9wyD\u002BUSw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/elevation.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9481366"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022p9wyD\u002BUSw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/elevation.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\elevation.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p9wyD\u002BUSw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9481366"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022p9wyD\u002BUSw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/girls.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\girls.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nd4Xp1A\u002BuxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4789944"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022nd4Xp1A\u002BuxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/girls.riki5pod6i.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\girls.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"riki5pod6i"},{"Name":"integrity","Value":"sha256-nd4Xp1A\u002BuxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/girls.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4789944"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022nd4Xp1A\u002BuxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/goodtime.dg5bwm2nzr.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\goodtime.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dg5bwm2nzr"},{"Name":"integrity","Value":"sha256-XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/goodtime.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4408581"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/goodtime.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\goodtime.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4408581"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/idestroyeddisco.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\idestroyeddisco.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-D3Zw06vwe220Knj\u002BsOiTWBgddx/T4HfybwVDKaCCKoM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5667294"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022D3Zw06vwe220Knj\u002BsOiTWBgddx/T4HfybwVDKaCCKoM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/idestroyeddisco.xs6ukin2bu.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\idestroyeddisco.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xs6ukin2bu"},{"Name":"integrity","Value":"sha256-D3Zw06vwe220Knj\u002BsOiTWBgddx/T4HfybwVDKaCCKoM="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/idestroyeddisco.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5667294"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022D3Zw06vwe220Knj\u002BsOiTWBgddx/T4HfybwVDKaCCKoM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/lca.2w7los3p12.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\lca.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2w7los3p12"},{"Name":"integrity","Value":"sha256-zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/lca.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2538615"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/lca.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\lca.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2538615"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/movement.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\movement.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH\u002BaWA2AWV9A9g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6053205"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH\u002BaWA2AWV9A9g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/movement.pev6d7m4mr.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\movement.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pev6d7m4mr"},{"Name":"integrity","Value":"sha256-ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH\u002BaWA2AWV9A9g="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/movement.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6053205"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH\u002BaWA2AWV9A9g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/openup.1uy5ztl08s.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\openup.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1uy5ztl08s"},{"Name":"integrity","Value":"sha256-Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/openup.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6454484"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/openup.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\openup.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6454484"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/perfume.ifuvf3knti.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\perfume.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ifuvf3knti"},{"Name":"integrity","Value":"sha256-MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/perfume.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6147370"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/perfume.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\perfume.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6147370"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/sex.km4rr78ukl.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\sex.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"km4rr78ukl"},{"Name":"integrity","Value":"sha256-1Dhy8y4xk1ug\u002BEKXLmfl8mJgGQV6g28kLbGho273/90="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/sex.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7968436"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u00221Dhy8y4xk1ug\u002BEKXLmfl8mJgGQV6g28kLbGho273/90=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/sex.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\sex.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1Dhy8y4xk1ug\u002BEKXLmfl8mJgGQV6g28kLbGho273/90="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7968436"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u00221Dhy8y4xk1ug\u002BEKXLmfl8mJgGQV6g28kLbGho273/90=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/youcanevergohome.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\youcanevergohome.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lEkkQUUDFBtUnT9BFtVLo1nT\u002BCH7csMl7fNG6X7q7N4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6706979"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022lEkkQUUDFBtUnT9BFtVLo1nT\u002BCH7csMl7fNG6X7q7N4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/youcanevergohome.ofa3mvwxke.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\youcanevergohome.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ofa3mvwxke"},{"Name":"integrity","Value":"sha256-lEkkQUUDFBtUnT9BFtVLo1nT\u002BCH7csMl7fNG6X7q7N4="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/youcanevergohome.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6706979"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022lEkkQUUDFBtUnT9BFtVLo1nT\u002BCH7csMl7fNG6X7q7N4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/youreinvited.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\youreinvited.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zCsFSs7bblfQpGCrEKtoJ78A\u002B4x5nww4EurqQjm4988="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6099099"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022zCsFSs7bblfQpGCrEKtoJ78A\u002B4x5nww4EurqQjm4988=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SoundPlayerAPI/Media/Track/TheDare/youreinvited.ozjs0c5qxi.mp3">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Media\Track\TheDare\youreinvited.mp3'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ozjs0c5qxi"},{"Name":"integrity","Value":"sha256-zCsFSs7bblfQpGCrEKtoJ78A\u002B4x5nww4EurqQjm4988="},{"Name":"label","Value":"_content/SoundPlayerAPI/Media/Track/TheDare/youreinvited.mp3"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6099099"},{"Name":"Content-Type","Value":"audio/mpeg"},{"Name":"ETag","Value":"\u0022zCsFSs7bblfQpGCrEKtoJ78A\u002B4x5nww4EurqQjm4988=\u0022"},{"Name":"Last-Modified","Value":"Mon, 19 May 2025 20:26:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\Media\Album\**" />
+    <Compile Remove="wwwroot\Media\Covers\Video\**" />
+    <Content Remove="wwwroot\Media\Album\**" />
+    <Content Remove="wwwroot\Media\Covers\Video\**" />
+    <EmbeddedResource Remove="wwwroot\Media\Album\**" />
+    <EmbeddedResource Remove="wwwroot\Media\Covers\Video\**" />
+    <None Remove="wwwroot\Media\Album\**" />
+    <None Remove="wwwroot\Media\Covers\Video\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FFmpeg.AutoGen" Version="7.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="System.Diagnostics.Tools" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Media\Covers\Statick\TheDare\SexEP.jpg" />
+    <None Include="wwwroot\Media\Covers\Statick\TheDare\Whats.jpg" />
+    <None Include="wwwroot\Media\Track\TheDare\allnight.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\bloodwork.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\elevation.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\goodtime.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\idestroyeddisco.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\lca.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\movement.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\openup.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\sex.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\youcanevergohome.mp3" />
+    <None Include="wwwroot\Media\Track\TheDare\youreinvited.mp3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Media\Clips\Video\TheDare\" />
+    <Folder Include="wwwroot\Media\Samples\TheDare\" />
+  </ItemGroup>
+
+</Project>
