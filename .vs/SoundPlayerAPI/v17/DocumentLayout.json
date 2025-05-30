@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\GILS_API-master\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\gils_api-master\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\gils_api-master\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|solutionrelative:controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\gils_api-master\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\gils_api-master\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|solutionrelative:controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\gils_api-master\\controllers\\recentlyplayedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\gils_api-master\\controllers\\recentlyplayedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|solutionrelative:controllers\\recentlyplayedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\gils_api-master\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\gils_api-master\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|solutionrelative:models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\gils_api-master\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\gils_api-master\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|solutionrelative:models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\gils_api-master\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\gils_api-master\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|solutionrelative:models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\gils_api-master\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\gils_api-master\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|solutionrelative:models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\gils_api-master\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\gils_api-master\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601E2BBE-AE6D-4B53-8FFB-8F0ECF14BFB5}|SoundPlayerAPI.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -116,24 +116,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RecentlyPlayedController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GILS_API-master\\Controllers\\RecentlyPlayedController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Controllers\\RecentlyPlayedController.cs",
               "RelativeDocumentMoniker": "Controllers\\RecentlyPlayedController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GILS_API-master\\Controllers\\RecentlyPlayedController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Controllers\\RecentlyPlayedController.cs",
               "RelativeToolTip": "Controllers\\RecentlyPlayedController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:06:55.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:06:55.86Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MusicController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GILS_API-master\\Controllers\\MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Controllers\\MusicController.cs",
               "RelativeDocumentMoniker": "Controllers\\MusicController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GILS_API-master\\Controllers\\MusicController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Controllers\\MusicController.cs",
               "RelativeToolTip": "Controllers\\MusicController.cs",
-              "ViewState": "AgIAAP8AAAAAAAAAAAAAACYBAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAiwCYBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T10:59:10.617Z",
               "EditorCaption": ""
@@ -142,79 +141,73 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Playlist.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\Playlist.cs",
               "RelativeDocumentMoniker": "Models\\Playlist.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\Playlist.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\Playlist.cs",
               "RelativeToolTip": "Models\\Playlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T08:02:11.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T08:02:11.161Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Concert.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\Concert.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\Concert.cs",
               "RelativeDocumentMoniker": "Models\\Concert.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\Concert.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\Concert.cs",
               "RelativeToolTip": "Models\\Concert.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T08:02:09.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T08:02:09.428Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\City.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\City.cs",
               "RelativeDocumentMoniker": "Models\\City.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\City.cs",
               "RelativeToolTip": "Models\\City.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T08:01:52.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T08:01:52.872Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Artist.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\Artist.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\Artist.cs",
               "RelativeDocumentMoniker": "Models\\Artist.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\Artist.cs",
               "RelativeToolTip": "Models\\Artist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T08:01:21.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T08:01:21.766Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Track.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\Track.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\Track.cs",
               "RelativeDocumentMoniker": "Models\\Track.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GILS_API-master\\Models\\Track.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Models\\Track.cs",
               "RelativeToolTip": "Models\\Track.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T08:00:29.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T08:00:29.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FavoriteController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GILS_API-master\\Controllers\\FavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Controllers\\FavoriteController.cs",
               "RelativeDocumentMoniker": "Controllers\\FavoriteController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GILS_API-master\\Controllers\\FavoriteController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\GILS_API-master\\Controllers\\FavoriteController.cs",
               "RelativeToolTip": "Controllers\\FavoriteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T07:57:25.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T07:57:25.614Z"
             }
           ]
         },

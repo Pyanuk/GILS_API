@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\GILS_API-master\\SoundPlayerAPI.csproj": {}
+    "C:\\Users\\user\\Desktop\\Новая папка (5)\\GILS_API-master\\SoundPlayerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\GILS_API-master\\SoundPlayerAPI.csproj": {
+    "C:\\Users\\user\\Desktop\\Новая папка (5)\\GILS_API-master\\SoundPlayerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\GILS_API-master\\SoundPlayerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка (5)\\GILS_API-master\\SoundPlayerAPI.csproj",
         "projectName": "SoundPlayerAPI",
-        "projectPath": "C:\\Users\\user\\Desktop\\GILS_API-master\\SoundPlayerAPI.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (5)\\GILS_API-master\\SoundPlayerAPI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\GILS_API-master\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка (5)\\GILS_API-master\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
