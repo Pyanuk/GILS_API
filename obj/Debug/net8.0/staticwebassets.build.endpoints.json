@@ -1,0 +1,2794 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Media/ArtistPhoto/TheDare.0kag5m46wj.jpg",
+      "AssetFile": "Media/ArtistPhoto/TheDare.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0kag5m46wj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/TheDare.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/TheDare.jpg",
+      "AssetFile": "Media/ArtistPhoto/TheDare.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark.f63lltoctm.jpg",
+      "AssetFile": "Media/ArtistPhoto/linkinpark.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1587763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbPoOSBxVEas9vrbHaW4robYq+6L6Pk1MCo7PSqQMI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 10:09:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f63lltoctm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbPoOSBxVEas9vrbHaW4robYq+6L6Pk1MCo7PSqQMI0="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/linkinpark.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark.jpg",
+      "AssetFile": "Media/ArtistPhoto/linkinpark.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1587763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbPoOSBxVEas9vrbHaW4robYq+6L6Pk1MCo7PSqQMI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 10:09:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbPoOSBxVEas9vrbHaW4robYq+6L6Pk1MCo7PSqQMI0="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/1.jpg",
+      "AssetFile": "Media/ArtistPhoto/linkinpark/1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "917191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YnlY8sP/Gr5I93kcsK2N0glb2FdsiBJ4svEAIfc5eJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:18:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YnlY8sP/Gr5I93kcsK2N0glb2FdsiBJ4svEAIfc5eJ4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/1.udvuj365er.jpg",
+      "AssetFile": "Media/ArtistPhoto/linkinpark/1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "917191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YnlY8sP/Gr5I93kcsK2N0glb2FdsiBJ4svEAIfc5eJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:18:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udvuj365er"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YnlY8sP/Gr5I93kcsK2N0glb2FdsiBJ4svEAIfc5eJ4="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/linkinpark/1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/2.jpg",
+      "AssetFile": "Media/ArtistPhoto/linkinpark/2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"waiANSO3YoAoZVAUXKMkZs9GUVkh30Qa/WdXeXLPSuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:18:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-waiANSO3YoAoZVAUXKMkZs9GUVkh30Qa/WdXeXLPSuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/2.lrmabj4zqv.jpg",
+      "AssetFile": "Media/ArtistPhoto/linkinpark/2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"waiANSO3YoAoZVAUXKMkZs9GUVkh30Qa/WdXeXLPSuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:18:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrmabj4zqv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-waiANSO3YoAoZVAUXKMkZs9GUVkh30Qa/WdXeXLPSuQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/linkinpark/2.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/3.h1t0xl741f.jpg",
+      "AssetFile": "Media/ArtistPhoto/linkinpark/3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+8eiBkYh9Kjeh1WRMC0Q8+jTwEf1DDKJ5B4LoQYPNOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:17:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h1t0xl741f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+8eiBkYh9Kjeh1WRMC0Q8+jTwEf1DDKJ5B4LoQYPNOs="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/linkinpark/3.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/3.jpg",
+      "AssetFile": "Media/ArtistPhoto/linkinpark/3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+8eiBkYh9Kjeh1WRMC0Q8+jTwEf1DDKJ5B4LoQYPNOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:17:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+8eiBkYh9Kjeh1WRMC0Q8+jTwEf1DDKJ5B4LoQYPNOs="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare1.75yovyh9el.jpg",
+      "AssetFile": "Media/ArtistPhoto/thedare/dare1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1859393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jaa3O9BG2yrw9npyzKKo8VLT3f05yYxJNPubnY/E9MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 14:03:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "75yovyh9el"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jaa3O9BG2yrw9npyzKKo8VLT3f05yYxJNPubnY/E9MI="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/thedare/dare1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare1.jpg",
+      "AssetFile": "Media/ArtistPhoto/thedare/dare1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1859393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jaa3O9BG2yrw9npyzKKo8VLT3f05yYxJNPubnY/E9MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 14:03:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jaa3O9BG2yrw9npyzKKo8VLT3f05yYxJNPubnY/E9MI="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare2.0kag5m46wj.jpg",
+      "AssetFile": "Media/ArtistPhoto/thedare/dare2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0kag5m46wj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/thedare/dare2.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare2.jpg",
+      "AssetFile": "Media/ArtistPhoto/thedare/dare2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare3.jpg",
+      "AssetFile": "Media/ArtistPhoto/thedare/dare3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jq1SyVBkgykSYaeifnb8KMTth3hwOC4rZb0W6BYp9nI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 13:53:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jq1SyVBkgykSYaeifnb8KMTth3hwOC4rZb0W6BYp9nI="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare3.q5kijtfsh6.jpg",
+      "AssetFile": "Media/ArtistPhoto/thedare/dare3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jq1SyVBkgykSYaeifnb8KMTth3hwOC4rZb0W6BYp9nI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 13:53:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q5kijtfsh6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jq1SyVBkgykSYaeifnb8KMTth3hwOC4rZb0W6BYp9nI="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/thedare/dare3.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare4.6le1dtbsdl.jpg",
+      "AssetFile": "Media/ArtistPhoto/thedare/dare4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GnHYPWt0LpR5pAOxB6A5MkiMYCX0orOwiblY556jaeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:23:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6le1dtbsdl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnHYPWt0LpR5pAOxB6A5MkiMYCX0orOwiblY556jaeQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/thedare/dare4.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare4.jpg",
+      "AssetFile": "Media/ArtistPhoto/thedare/dare4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GnHYPWt0LpR5pAOxB6A5MkiMYCX0orOwiblY556jaeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:23:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnHYPWt0LpR5pAOxB6A5MkiMYCX0orOwiblY556jaeQ="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Girls.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/Girls.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 03:30:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB+Y="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Girls.jxim3m3h5m.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/Girls.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 03:30:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxim3m3h5m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB+Y="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/Girls.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/GoodTime.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/GoodTime.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntphpKEMNnWlotXT4LcgPSwVJE8hzWX+Hgubp5KK7U0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:23:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ntphpKEMNnWlotXT4LcgPSwVJE8hzWX+Hgubp5KK7U0="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/GoodTime.yw85tryjde.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/GoodTime.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntphpKEMNnWlotXT4LcgPSwVJE8hzWX+Hgubp5KK7U0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:23:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yw85tryjde"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ntphpKEMNnWlotXT4LcgPSwVJE8hzWX+Hgubp5KK7U0="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/GoodTime.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Perfume.9donckdeec.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/Perfume.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:25:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9donckdeec"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/Perfume.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Perfume.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/Perfume.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:25:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Sex.a54938516x.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/Sex.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:24:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a54938516x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/Sex.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Sex.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/Sex.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:24:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/YoureInvited.g4uvncv89a.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/YoureInvited.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:25:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4uvncv89a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/YoureInvited.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/YoureInvited.jpg",
+      "AssetFile": "Media/Clips/Cover/TheDare/YoureInvited.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:25:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/TheDare/SexEP.4s6ds1ytrd.jpg",
+      "AssetFile": "Media/Covers/Statick/TheDare/SexEP.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4s6ds1ytrd"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Covers/Statick/TheDare/SexEP.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/TheDare/SexEP.jpg",
+      "AssetFile": "Media/Covers/Statick/TheDare/SexEP.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/TheDare/Whats.2zi15l9eqv.jpg",
+      "AssetFile": "Media/Covers/Statick/TheDare/Whats.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1087368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tr+V2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zi15l9eqv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tr+V2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Covers/Statick/TheDare/Whats.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/TheDare/Whats.jpg",
+      "AssetFile": "Media/Covers/Statick/TheDare/Whats.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1087368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tr+V2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tr+V2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/linkinpark/hybridtheory.jpg",
+      "AssetFile": "Media/Covers/Statick/linkinpark/hybridtheory.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yp69pzfW/0IYUf7wTBEHu38tJuR1DvZLTja27TDR1xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:50:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yp69pzfW/0IYUf7wTBEHu38tJuR1DvZLTja27TDR1xo="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/linkinpark/hybridtheory.q2kji0aj9t.jpg",
+      "AssetFile": "Media/Covers/Statick/linkinpark/hybridtheory.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yp69pzfW/0IYUf7wTBEHu38tJuR1DvZLTja27TDR1xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:50:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q2kji0aj9t"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yp69pzfW/0IYUf7wTBEHu38tJuR1DvZLTja27TDR1xo="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Covers/Statick/linkinpark/hybridtheory.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/linkinpark/meteora.jpg",
+      "AssetFile": "Media/Covers/Statick/linkinpark/meteora.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Gix4CbcwdtbWRJyWtOdU1oqKkCYfC2XQ9uwIIFyPlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:58:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Gix4CbcwdtbWRJyWtOdU1oqKkCYfC2XQ9uwIIFyPlA="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/linkinpark/meteora.ovjl922g4k.jpg",
+      "AssetFile": "Media/Covers/Statick/linkinpark/meteora.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Gix4CbcwdtbWRJyWtOdU1oqKkCYfC2XQ9uwIIFyPlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:58:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ovjl922g4k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Gix4CbcwdtbWRJyWtOdU1oqKkCYfC2XQ9uwIIFyPlA="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Covers/Statick/linkinpark/meteora.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/faint.mp3",
+      "AssetFile": "Media/Track/linkinpark/faint.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6603150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADSpJh+8d9Sj/pnD8z4Bg0cybBWNyCDnNjtwmw7OkWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 15:57:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADSpJh+8d9Sj/pnD8z4Bg0cybBWNyCDnNjtwmw7OkWg="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/faint.spihvlqr4t.mp3",
+      "AssetFile": "Media/Track/linkinpark/faint.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6603150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADSpJh+8d9Sj/pnD8z4Bg0cybBWNyCDnNjtwmw7OkWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 15:57:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "spihvlqr4t"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADSpJh+8d9Sj/pnD8z4Bg0cybBWNyCDnNjtwmw7OkWg="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/linkinpark/faint.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/intheend.czdbrv7683.mp3",
+      "AssetFile": "Media/Track/linkinpark/intheend.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8849681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eB0nh3XkW//xDe8pPwqVokxjNls89WXCvc7N9ooOi4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:47:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "czdbrv7683"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eB0nh3XkW//xDe8pPwqVokxjNls89WXCvc7N9ooOi4U="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/linkinpark/intheend.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/intheend.mp3",
+      "AssetFile": "Media/Track/linkinpark/intheend.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8849681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eB0nh3XkW//xDe8pPwqVokxjNls89WXCvc7N9ooOi4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:47:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eB0nh3XkW//xDe8pPwqVokxjNls89WXCvc7N9ooOi4U="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/numb.akgsgsn8gt.mp3",
+      "AssetFile": "Media/Track/linkinpark/numb.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7513256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rLYrat2z5gsH+pX+5kPplVxg7zWd+/KUQTl81yRX84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 15:57:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akgsgsn8gt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rLYrat2z5gsH+pX+5kPplVxg7zWd+/KUQTl81yRX84="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/linkinpark/numb.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/numb.mp3",
+      "AssetFile": "Media/Track/linkinpark/numb.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7513256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rLYrat2z5gsH+pX+5kPplVxg7zWd+/KUQTl81yRX84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 15:57:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rLYrat2z5gsH+pX+5kPplVxg7zWd+/KUQTl81yRX84="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/allnight.aubh6kxwto.mp3",
+      "AssetFile": "Media/Track/thedare/allnight.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9338326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aubh6kxwto"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/allnight.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/allnight.mp3",
+      "AssetFile": "Media/Track/thedare/allnight.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9338326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/bloodwork.mp3",
+      "AssetFile": "Media/Track/thedare/bloodwork.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9569219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx+Q4zgfbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx+Q4zgfbQ="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/bloodwork.usdz8v72qw.mp3",
+      "AssetFile": "Media/Track/thedare/bloodwork.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9569219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx+Q4zgfbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "usdz8v72qw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx+Q4zgfbQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/bloodwork.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/elevation.hiccd34gfe.mp3",
+      "AssetFile": "Media/Track/thedare/elevation.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9481366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p9wyD+USw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hiccd34gfe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p9wyD+USw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/elevation.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/elevation.mp3",
+      "AssetFile": "Media/Track/thedare/elevation.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9481366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p9wyD+USw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p9wyD+USw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/girls.mp3",
+      "AssetFile": "Media/Track/thedare/girls.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nd4Xp1A+uxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nd4Xp1A+uxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/girls.riki5pod6i.mp3",
+      "AssetFile": "Media/Track/thedare/girls.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nd4Xp1A+uxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "riki5pod6i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nd4Xp1A+uxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/girls.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/goodtime.dg5bwm2nzr.mp3",
+      "AssetFile": "Media/Track/thedare/goodtime.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4408581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dg5bwm2nzr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/goodtime.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/goodtime.mp3",
+      "AssetFile": "Media/Track/thedare/goodtime.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4408581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/idestroyeddisco.mp3",
+      "AssetFile": "Media/Track/thedare/idestroyeddisco.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3Zw06vwe220Knj+sOiTWBgddx/T4HfybwVDKaCCKoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3Zw06vwe220Knj+sOiTWBgddx/T4HfybwVDKaCCKoM="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/idestroyeddisco.xs6ukin2bu.mp3",
+      "AssetFile": "Media/Track/thedare/idestroyeddisco.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3Zw06vwe220Knj+sOiTWBgddx/T4HfybwVDKaCCKoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xs6ukin2bu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3Zw06vwe220Knj+sOiTWBgddx/T4HfybwVDKaCCKoM="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/idestroyeddisco.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/lca.2w7los3p12.mp3",
+      "AssetFile": "Media/Track/thedare/lca.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2538615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2w7los3p12"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/lca.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/lca.mp3",
+      "AssetFile": "Media/Track/thedare/lca.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2538615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/movement.mp3",
+      "AssetFile": "Media/Track/thedare/movement.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6053205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH+aWA2AWV9A9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH+aWA2AWV9A9g="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/movement.pev6d7m4mr.mp3",
+      "AssetFile": "Media/Track/thedare/movement.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6053205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH+aWA2AWV9A9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pev6d7m4mr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH+aWA2AWV9A9g="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/movement.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/openup.1uy5ztl08s.mp3",
+      "AssetFile": "Media/Track/thedare/openup.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6454484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1uy5ztl08s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/openup.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/openup.mp3",
+      "AssetFile": "Media/Track/thedare/openup.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6454484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/perfume.ifuvf3knti.mp3",
+      "AssetFile": "Media/Track/thedare/perfume.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6147370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifuvf3knti"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/perfume.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/perfume.mp3",
+      "AssetFile": "Media/Track/thedare/perfume.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6147370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/sex.km4rr78ukl.mp3",
+      "AssetFile": "Media/Track/thedare/sex.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7968436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Dhy8y4xk1ug+EKXLmfl8mJgGQV6g28kLbGho273/90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "km4rr78ukl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Dhy8y4xk1ug+EKXLmfl8mJgGQV6g28kLbGho273/90="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/sex.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/sex.mp3",
+      "AssetFile": "Media/Track/thedare/sex.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7968436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Dhy8y4xk1ug+EKXLmfl8mJgGQV6g28kLbGho273/90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Dhy8y4xk1ug+EKXLmfl8mJgGQV6g28kLbGho273/90="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/youcanevergohome.mp3",
+      "AssetFile": "Media/Track/thedare/youcanevergohome.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6706979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEkkQUUDFBtUnT9BFtVLo1nT+CH7csMl7fNG6X7q7N4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEkkQUUDFBtUnT9BFtVLo1nT+CH7csMl7fNG6X7q7N4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/youcanevergohome.ofa3mvwxke.mp3",
+      "AssetFile": "Media/Track/thedare/youcanevergohome.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6706979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEkkQUUDFBtUnT9BFtVLo1nT+CH7csMl7fNG6X7q7N4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ofa3mvwxke"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEkkQUUDFBtUnT9BFtVLo1nT+CH7csMl7fNG6X7q7N4="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/youcanevergohome.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/youreinvited.mp3",
+      "AssetFile": "Media/Track/thedare/youreinvited.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6099099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zCsFSs7bblfQpGCrEKtoJ78A+4x5nww4EurqQjm4988=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zCsFSs7bblfQpGCrEKtoJ78A+4x5nww4EurqQjm4988="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/youreinvited.ozjs0c5qxi.mp3",
+      "AssetFile": "Media/Track/thedare/youreinvited.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6099099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zCsFSs7bblfQpGCrEKtoJ78A+4x5nww4EurqQjm4988=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ozjs0c5qxi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zCsFSs7bblfQpGCrEKtoJ78A+4x5nww4EurqQjm4988="
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/youreinvited.mp3"
+        }
+      ]
+    }
+  ]
+}

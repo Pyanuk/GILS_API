@@ -1,0 +1,3524 @@
+{
+  "Version": 1,
+  "Hash": "rZD+zGQ2oJ2eZ3QACxDitX0LZ/kHHuceBgUaDzkV76k=",
+  "Source": "SoundPlayerAPI",
+  "BasePath": "_content/SoundPlayerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SoundPlayerAPI\\wwwroot",
+      "Source": "SoundPlayerAPI",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/ArtistPhoto/linkinpark#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f63lltoctm",
+      "Integrity": "qbPoOSBxVEas9vrbHaW4robYq+6L6Pk1MCo7PSqQMI0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/ArtistPhoto/linkinpark/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "udvuj365er",
+      "Integrity": "YnlY8sP/Gr5I93kcsK2N0glb2FdsiBJ4svEAIfc5eJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/ArtistPhoto/linkinpark/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lrmabj4zqv",
+      "Integrity": "waiANSO3YoAoZVAUXKMkZs9GUVkh30Qa/WdXeXLPSuQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/ArtistPhoto/linkinpark/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h1t0xl741f",
+      "Integrity": "+8eiBkYh9Kjeh1WRMC0Q8+jTwEf1DDKJ5B4LoQYPNOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/ArtistPhoto/TheDare#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0kag5m46wj",
+      "Integrity": "cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\TheDare.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/ArtistPhoto/thedare/dare1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "75yovyh9el",
+      "Integrity": "Jaa3O9BG2yrw9npyzKKo8VLT3f05yYxJNPubnY/E9MI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/ArtistPhoto/thedare/dare2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0kag5m46wj",
+      "Integrity": "cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/ArtistPhoto/thedare/dare3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q5kijtfsh6",
+      "Integrity": "jq1SyVBkgykSYaeifnb8KMTth3hwOC4rZb0W6BYp9nI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/ArtistPhoto/thedare/dare4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6le1dtbsdl",
+      "Integrity": "GnHYPWt0LpR5pAOxB6A5MkiMYCX0orOwiblY556jaeQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Clips/Cover/TheDare/Girls#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jxim3m3h5m",
+      "Integrity": "qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Clips/Cover/TheDare/GoodTime#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yw85tryjde",
+      "Integrity": "ntphpKEMNnWlotXT4LcgPSwVJE8hzWX+Hgubp5KK7U0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Clips/Cover/TheDare/Perfume#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9donckdeec",
+      "Integrity": "43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Clips/Cover/TheDare/Sex#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a54938516x",
+      "Integrity": "PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Clips/Cover/TheDare/YoureInvited#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g4uvncv89a",
+      "Integrity": "wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Covers/Statick/linkinpark/hybridtheory#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q2kji0aj9t",
+      "Integrity": "Yp69pzfW/0IYUf7wTBEHu38tJuR1DvZLTja27TDR1xo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Covers/Statick/linkinpark/meteora#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ovjl922g4k",
+      "Integrity": "5Gix4CbcwdtbWRJyWtOdU1oqKkCYfC2XQ9uwIIFyPlA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Covers/Statick/TheDare/SexEP#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4s6ds1ytrd",
+      "Integrity": "bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Covers/Statick/TheDare/Whats#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2zi15l9eqv",
+      "Integrity": "Tr+V2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/linkinpark/faint#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "spihvlqr4t",
+      "Integrity": "ADSpJh+8d9Sj/pnD8z4Bg0cybBWNyCDnNjtwmw7OkWg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\linkinpark\\faint.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/linkinpark/intheend#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "czdbrv7683",
+      "Integrity": "eB0nh3XkW//xDe8pPwqVokxjNls89WXCvc7N9ooOi4U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\linkinpark\\intheend.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/linkinpark/numb#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akgsgsn8gt",
+      "Integrity": "2rLYrat2z5gsH+pX+5kPplVxg7zWd+/KUQTl81yRX84=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\linkinpark\\numb.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/allnight#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aubh6kxwto",
+      "Integrity": "zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\allnight.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/bloodwork#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "usdz8v72qw",
+      "Integrity": "ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx+Q4zgfbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\bloodwork.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/elevation#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hiccd34gfe",
+      "Integrity": "p9wyD+USw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\elevation.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/girls#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "riki5pod6i",
+      "Integrity": "nd4Xp1A+uxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\girls.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/goodtime#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dg5bwm2nzr",
+      "Integrity": "XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\goodtime.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/idestroyeddisco#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xs6ukin2bu",
+      "Integrity": "D3Zw06vwe220Knj+sOiTWBgddx/T4HfybwVDKaCCKoM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/lca#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2w7los3p12",
+      "Integrity": "zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\lca.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/movement#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pev6d7m4mr",
+      "Integrity": "ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH+aWA2AWV9A9g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\movement.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/openup#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1uy5ztl08s",
+      "Integrity": "Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\openup.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/perfume#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifuvf3knti",
+      "Integrity": "MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\perfume.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/sex#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "km4rr78ukl",
+      "Integrity": "1Dhy8y4xk1ug+EKXLmfl8mJgGQV6g28kLbGho273/90=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\sex.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/youcanevergohome#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ofa3mvwxke",
+      "Integrity": "lEkkQUUDFBtUnT9BFtVLo1nT+CH7csMl7fNG6X7q7N4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
+      "SourceId": "SoundPlayerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "BasePath": "_content/SoundPlayerAPI",
+      "RelativePath": "Media/Track/thedare/youreinvited#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ozjs0c5qxi",
+      "Integrity": "zCsFSs7bblfQpGCrEKtoJ78A+4x5nww4EurqQjm4988=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\youreinvited.mp3"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Media/ArtistPhoto/linkinpark.f63lltoctm.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1587763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbPoOSBxVEas9vrbHaW4robYq+6L6Pk1MCo7PSqQMI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 10:09:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f63lltoctm"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/linkinpark.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbPoOSBxVEas9vrbHaW4robYq+6L6Pk1MCo7PSqQMI0="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1587763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbPoOSBxVEas9vrbHaW4robYq+6L6Pk1MCo7PSqQMI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 10:09:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbPoOSBxVEas9vrbHaW4robYq+6L6Pk1MCo7PSqQMI0="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "917191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YnlY8sP/Gr5I93kcsK2N0glb2FdsiBJ4svEAIfc5eJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:18:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YnlY8sP/Gr5I93kcsK2N0glb2FdsiBJ4svEAIfc5eJ4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/1.udvuj365er.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "917191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YnlY8sP/Gr5I93kcsK2N0glb2FdsiBJ4svEAIfc5eJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:18:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udvuj365er"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/linkinpark/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YnlY8sP/Gr5I93kcsK2N0glb2FdsiBJ4svEAIfc5eJ4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"waiANSO3YoAoZVAUXKMkZs9GUVkh30Qa/WdXeXLPSuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:18:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-waiANSO3YoAoZVAUXKMkZs9GUVkh30Qa/WdXeXLPSuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/2.lrmabj4zqv.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"waiANSO3YoAoZVAUXKMkZs9GUVkh30Qa/WdXeXLPSuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:18:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrmabj4zqv"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/linkinpark/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-waiANSO3YoAoZVAUXKMkZs9GUVkh30Qa/WdXeXLPSuQ="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/3.h1t0xl741f.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+8eiBkYh9Kjeh1WRMC0Q8+jTwEf1DDKJ5B4LoQYPNOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:17:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h1t0xl741f"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/linkinpark/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+8eiBkYh9Kjeh1WRMC0Q8+jTwEf1DDKJ5B4LoQYPNOs="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/linkinpark/3.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+8eiBkYh9Kjeh1WRMC0Q8+jTwEf1DDKJ5B4LoQYPNOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:17:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+8eiBkYh9Kjeh1WRMC0Q8+jTwEf1DDKJ5B4LoQYPNOs="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/TheDare.0kag5m46wj.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0kag5m46wj"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/TheDare.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/TheDare.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare1.75yovyh9el.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1859393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jaa3O9BG2yrw9npyzKKo8VLT3f05yYxJNPubnY/E9MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 14:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "75yovyh9el"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/thedare/dare1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jaa3O9BG2yrw9npyzKKo8VLT3f05yYxJNPubnY/E9MI="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1859393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jaa3O9BG2yrw9npyzKKo8VLT3f05yYxJNPubnY/E9MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 14:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jaa3O9BG2yrw9npyzKKo8VLT3f05yYxJNPubnY/E9MI="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare2.0kag5m46wj.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0kag5m46wj"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/thedare/dare2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJajK89uUsEOPtAosnAnWO4YNTA/wE90mAlnDJGZxic="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare3.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jq1SyVBkgykSYaeifnb8KMTth3hwOC4rZb0W6BYp9nI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 13:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jq1SyVBkgykSYaeifnb8KMTth3hwOC4rZb0W6BYp9nI="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare3.q5kijtfsh6.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jq1SyVBkgykSYaeifnb8KMTth3hwOC4rZb0W6BYp9nI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 13:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q5kijtfsh6"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/thedare/dare3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jq1SyVBkgykSYaeifnb8KMTth3hwOC4rZb0W6BYp9nI="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare4.6le1dtbsdl.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GnHYPWt0LpR5pAOxB6A5MkiMYCX0orOwiblY556jaeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6le1dtbsdl"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/ArtistPhoto/thedare/dare4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnHYPWt0LpR5pAOxB6A5MkiMYCX0orOwiblY556jaeQ="
+        }
+      ]
+    },
+    {
+      "Route": "Media/ArtistPhoto/thedare/dare4.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GnHYPWt0LpR5pAOxB6A5MkiMYCX0orOwiblY556jaeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:23:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnHYPWt0LpR5pAOxB6A5MkiMYCX0orOwiblY556jaeQ="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Girls.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 03:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB+Y="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Girls.jxim3m3h5m.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 03:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxim3m3h5m"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/Girls.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYuMm37Dk3TrnUdP3XEkgmme20OJefmLxlWNHNoEB+Y="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/GoodTime.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntphpKEMNnWlotXT4LcgPSwVJE8hzWX+Hgubp5KK7U0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:23:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ntphpKEMNnWlotXT4LcgPSwVJE8hzWX+Hgubp5KK7U0="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/GoodTime.yw85tryjde.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ntphpKEMNnWlotXT4LcgPSwVJE8hzWX+Hgubp5KK7U0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:23:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yw85tryjde"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/GoodTime.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ntphpKEMNnWlotXT4LcgPSwVJE8hzWX+Hgubp5KK7U0="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Perfume.9donckdeec.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9donckdeec"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/Perfume.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Perfume.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:25:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-43h9ZGjaDV2WKSl0uBAGEWUKbbyE4cWJfl/PUiyXIag="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Sex.a54938516x.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a54938516x"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/Sex.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/Sex.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PhDM5antd7tizLov1Qlp38bmAcU/9XXGVBNnRo3l48w="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/YoureInvited.g4uvncv89a.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:25:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4uvncv89a"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Clips/Cover/TheDare/YoureInvited.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Clips/Cover/TheDare/YoureInvited.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 05:25:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wD5WYYKoqW2dahn0jLRx89SyXDQkBatFWaMMPRhXcR4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/linkinpark/hybridtheory.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yp69pzfW/0IYUf7wTBEHu38tJuR1DvZLTja27TDR1xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yp69pzfW/0IYUf7wTBEHu38tJuR1DvZLTja27TDR1xo="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/linkinpark/hybridtheory.q2kji0aj9t.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yp69pzfW/0IYUf7wTBEHu38tJuR1DvZLTja27TDR1xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:50:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q2kji0aj9t"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Covers/Statick/linkinpark/hybridtheory.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yp69pzfW/0IYUf7wTBEHu38tJuR1DvZLTja27TDR1xo="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/linkinpark/meteora.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Gix4CbcwdtbWRJyWtOdU1oqKkCYfC2XQ9uwIIFyPlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:58:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Gix4CbcwdtbWRJyWtOdU1oqKkCYfC2XQ9uwIIFyPlA="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/linkinpark/meteora.ovjl922g4k.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Gix4CbcwdtbWRJyWtOdU1oqKkCYfC2XQ9uwIIFyPlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:58:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ovjl922g4k"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Covers/Statick/linkinpark/meteora.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Gix4CbcwdtbWRJyWtOdU1oqKkCYfC2XQ9uwIIFyPlA="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/TheDare/SexEP.4s6ds1ytrd.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4s6ds1ytrd"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Covers/Statick/TheDare/SexEP.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/TheDare/SexEP.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bPzBeGu4lhjFN3uQWsIwsQDVr9uFLKYIQsUzYv8fXWM="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/TheDare/Whats.2zi15l9eqv.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1087368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tr+V2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zi15l9eqv"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Covers/Statick/TheDare/Whats.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tr+V2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Covers/Statick/TheDare/Whats.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1087368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tr+V2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tr+V2KqGVgMxxv3OWnMtMvj1G5co4oGF2MoPCrDrCU8="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/faint.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6603150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADSpJh+8d9Sj/pnD8z4Bg0cybBWNyCDnNjtwmw7OkWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 15:57:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADSpJh+8d9Sj/pnD8z4Bg0cybBWNyCDnNjtwmw7OkWg="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/faint.spihvlqr4t.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6603150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADSpJh+8d9Sj/pnD8z4Bg0cybBWNyCDnNjtwmw7OkWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 15:57:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "spihvlqr4t"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/linkinpark/faint.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ADSpJh+8d9Sj/pnD8z4Bg0cybBWNyCDnNjtwmw7OkWg="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/intheend.czdbrv7683.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8849681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eB0nh3XkW//xDe8pPwqVokxjNls89WXCvc7N9ooOi4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:47:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "czdbrv7683"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/linkinpark/intheend.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eB0nh3XkW//xDe8pPwqVokxjNls89WXCvc7N9ooOi4U="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/intheend.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8849681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eB0nh3XkW//xDe8pPwqVokxjNls89WXCvc7N9ooOi4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 09:47:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eB0nh3XkW//xDe8pPwqVokxjNls89WXCvc7N9ooOi4U="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/numb.akgsgsn8gt.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7513256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rLYrat2z5gsH+pX+5kPplVxg7zWd+/KUQTl81yRX84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 15:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akgsgsn8gt"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/linkinpark/numb.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rLYrat2z5gsH+pX+5kPplVxg7zWd+/KUQTl81yRX84="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/linkinpark/numb.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7513256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rLYrat2z5gsH+pX+5kPplVxg7zWd+/KUQTl81yRX84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 15:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rLYrat2z5gsH+pX+5kPplVxg7zWd+/KUQTl81yRX84="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/allnight.aubh6kxwto.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9338326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aubh6kxwto"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/allnight.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/allnight.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9338326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgNffW0Kki/wNHd7pKO2/B8X7BoT/zht067TAKCzg7U="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/bloodwork.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9569219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx+Q4zgfbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx+Q4zgfbQ="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/bloodwork.usdz8v72qw.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9569219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx+Q4zgfbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "usdz8v72qw"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/bloodwork.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ngTA2beHPr4gI9GdCMovdePSbElccaeNEfx+Q4zgfbQ="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/elevation.hiccd34gfe.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9481366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p9wyD+USw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hiccd34gfe"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/elevation.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p9wyD+USw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/elevation.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9481366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p9wyD+USw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p9wyD+USw4HItWcF809cxHQ3/2h4RJDZ22rmFfMCor4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/girls.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nd4Xp1A+uxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nd4Xp1A+uxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/girls.riki5pod6i.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nd4Xp1A+uxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "riki5pod6i"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/girls.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nd4Xp1A+uxjSHnkp4jmP4FbSjQmpKHrzxpOC2sl7v30="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/goodtime.dg5bwm2nzr.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4408581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dg5bwm2nzr"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/goodtime.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/goodtime.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4408581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XQhLnMRW/QkK1pR04IC80ZYi7Dp8O13DTv3ZEKsSoiY="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/idestroyeddisco.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3Zw06vwe220Knj+sOiTWBgddx/T4HfybwVDKaCCKoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3Zw06vwe220Knj+sOiTWBgddx/T4HfybwVDKaCCKoM="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/idestroyeddisco.xs6ukin2bu.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5667294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3Zw06vwe220Knj+sOiTWBgddx/T4HfybwVDKaCCKoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xs6ukin2bu"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/idestroyeddisco.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3Zw06vwe220Knj+sOiTWBgddx/T4HfybwVDKaCCKoM="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/lca.2w7los3p12.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2538615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2w7los3p12"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/lca.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/lca.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2538615"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zmy1XCvheeLqVV2JwVHXMNhqwY0LHoLijGd/5N8AgMw="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/movement.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6053205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH+aWA2AWV9A9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH+aWA2AWV9A9g="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/movement.pev6d7m4mr.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6053205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH+aWA2AWV9A9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pev6d7m4mr"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/movement.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ge0CWMtxpVYxMtokj6zjD3bkqZQEjcH+aWA2AWV9A9g="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/openup.1uy5ztl08s.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6454484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1uy5ztl08s"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/openup.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/openup.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6454484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9lRQnSh0DTiO09Spl7HL3iiPtdXz8VFeGFJcw2Nx64="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/perfume.ifuvf3knti.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6147370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifuvf3knti"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/perfume.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/perfume.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6147370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MvleyKk7BzyLj0TNhywmWTYDUDYVkoHSz7jjx9xiGIg="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/sex.km4rr78ukl.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7968436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Dhy8y4xk1ug+EKXLmfl8mJgGQV6g28kLbGho273/90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "km4rr78ukl"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/sex.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Dhy8y4xk1ug+EKXLmfl8mJgGQV6g28kLbGho273/90="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/sex.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7968436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Dhy8y4xk1ug+EKXLmfl8mJgGQV6g28kLbGho273/90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Dhy8y4xk1ug+EKXLmfl8mJgGQV6g28kLbGho273/90="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/youcanevergohome.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6706979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEkkQUUDFBtUnT9BFtVLo1nT+CH7csMl7fNG6X7q7N4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEkkQUUDFBtUnT9BFtVLo1nT+CH7csMl7fNG6X7q7N4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/youcanevergohome.ofa3mvwxke.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6706979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEkkQUUDFBtUnT9BFtVLo1nT+CH7csMl7fNG6X7q7N4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ofa3mvwxke"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/youcanevergohome.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEkkQUUDFBtUnT9BFtVLo1nT+CH7csMl7fNG6X7q7N4="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/youreinvited.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6099099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zCsFSs7bblfQpGCrEKtoJ78A+4x5nww4EurqQjm4988=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zCsFSs7bblfQpGCrEKtoJ78A+4x5nww4EurqQjm4988="
+        }
+      ]
+    },
+    {
+      "Route": "Media/Track/thedare/youreinvited.ozjs0c5qxi.mp3",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6099099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zCsFSs7bblfQpGCrEKtoJ78A+4x5nww4EurqQjm4988=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ozjs0c5qxi"
+        },
+        {
+          "Name": "label",
+          "Value": "Media/Track/thedare/youreinvited.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zCsFSs7bblfQpGCrEKtoJ78A+4x5nww4EurqQjm4988="
+        }
+      ]
+    }
+  ]
+}

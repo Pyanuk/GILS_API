@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\TheDare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\linkinpark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\linkinpark\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\linkinpark\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\linkinpark\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\thedare\\dare1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\thedare\\dare2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\thedare\\dare3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
+      "PackagePath": "staticwebassets\\Media\\ArtistPhoto\\thedare\\dare4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\Girls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\Sex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
+      "PackagePath": "staticwebassets\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
+      "PackagePath": "staticwebassets\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
+      "PackagePath": "staticwebassets\\Media\\Covers\\Statick\\TheDare\\Whats.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
+      "PackagePath": "staticwebassets\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
+      "PackagePath": "staticwebassets\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\linkinpark\\faint.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\linkinpark\\intheend.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\linkinpark\\numb.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\allnight.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\bloodwork.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\elevation.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\girls.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\goodtime.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\idestroyeddisco.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\lca.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\movement.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\openup.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\perfume.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\sex.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\youcanevergohome.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
+      "PackagePath": "staticwebassets\\Media\\Track\\thedare\\youreinvited.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SoundPlayerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SoundPlayerAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SoundPlayerAPI.props",
+      "PackagePath": "build\\SoundPlayerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SoundPlayerAPI.props",
+      "PackagePath": "buildMultiTargeting\\SoundPlayerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SoundPlayerAPI.props",
+      "PackagePath": "buildTransitive\\SoundPlayerAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
