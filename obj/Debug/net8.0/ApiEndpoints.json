@@ -248,5 +248,57 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "SoundPlayerAPI.Controllers.SearchArtistsController",
+    "Method": "SearchArtist",
+    "RelativePath": "api/SearchArtists",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SoundPlayerAPI.Models.DTOs.ArtistSimpleDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SoundPlayerAPI.Controllers.SearchArtistsController",
+    "Method": "GetArtistById",
+    "RelativePath": "api/SearchArtists/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SoundPlayerAPI.Models.DTOs.ArtistSimpleDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

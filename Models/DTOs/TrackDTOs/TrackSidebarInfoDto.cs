@@ -9,6 +9,7 @@
         public string? Lyrics { get; set; }
         public string? CoverPath { get; set; }
         public string? Produsser { get; set; }
+        public string? LrcLyrics { get; set; }
 
         public List<ArtistDto> Artists { get; set; } = new();
         public List<VideoDto> Clips { get; set; } = new();

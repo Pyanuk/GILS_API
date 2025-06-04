@@ -105,6 +105,7 @@ public class MusicController : ControllerBase
                 Lyrics = track.Lyrics,
                 CoverPath = track.CoverPath,
                 Produsser = track.Produsser,
+                LrcLyrics = track.LrcLyrics,
                 Artists = track.Artists.Select(artist => new ArtistDto
                 {
                     ArtistId = artist.ArtistId,

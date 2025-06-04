@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rZD+zGQ2oJ2eZ3QACxDitX0LZ/kHHuceBgUaDzkV76k=",
+  "Hash": "9CGawrnvWX3bWW0QPj6ZzSDaDsWCLmQ9JsCe6OoWcBE=",
   "Source": "SoundPlayerAPI",
   "BasePath": "_content/SoundPlayerAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SoundPlayerAPI\\wwwroot",
       "Source": "SoundPlayerAPI",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/ArtistPhoto/linkinpark#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/ArtistPhoto/linkinpark/1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/ArtistPhoto/linkinpark/2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/ArtistPhoto/linkinpark/3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/ArtistPhoto/TheDare#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\TheDare.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/ArtistPhoto/thedare/dare1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/ArtistPhoto/thedare/dare2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/ArtistPhoto/thedare/dare3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/ArtistPhoto/thedare/dare4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Clips/Cover/TheDare/Girls#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Clips/Cover/TheDare/GoodTime#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Clips/Cover/TheDare/Perfume#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Clips/Cover/TheDare/Sex#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Clips/Cover/TheDare/YoureInvited#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Covers/Statick/linkinpark/hybridtheory#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Covers/Statick/linkinpark/meteora#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Covers/Statick/TheDare/SexEP#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Covers/Statick/TheDare/Whats#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/linkinpark/faint#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\linkinpark\\faint.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/linkinpark/intheend#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\linkinpark\\intheend.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/linkinpark/numb#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\linkinpark\\numb.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/allnight#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\allnight.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/bloodwork#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\bloodwork.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/elevation#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\elevation.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/girls#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\girls.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/goodtime#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\goodtime.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/idestroyeddisco#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/lca#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\lca.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/movement#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\movement.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/openup#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\openup.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/perfume#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\perfume.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/sex#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\sex.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/youcanevergohome#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
       "SourceId": "SoundPlayerAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\",
       "BasePath": "_content/SoundPlayerAPI",
       "RelativePath": "Media/Track/thedare/youreinvited#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
@@ -734,7 +734,7 @@
   "Endpoints": [
     {
       "Route": "Media/ArtistPhoto/linkinpark.f63lltoctm.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -755,7 +755,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 10:09:01 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -779,7 +779,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/linkinpark.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -800,7 +800,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 10:09:01 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -816,7 +816,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/linkinpark/1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -837,7 +837,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 10:18:46 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -853,7 +853,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/linkinpark/1.udvuj365er.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -874,7 +874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 10:18:46 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -898,7 +898,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/linkinpark/2.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -919,7 +919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 10:18:59 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -935,7 +935,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/linkinpark/2.lrmabj4zqv.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -956,7 +956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 10:18:59 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -980,7 +980,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/linkinpark/3.h1t0xl741f.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1001,7 +1001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 10:17:33 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1025,7 +1025,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/linkinpark/3.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\linkinpark\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1046,7 +1046,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 10:17:33 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1062,7 +1062,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/TheDare.0kag5m46wj.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1083,7 +1083,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1107,7 +1107,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/TheDare.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\TheDare.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1128,7 +1128,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1144,7 +1144,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/thedare/dare1.75yovyh9el.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1165,7 +1165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 14:03:17 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1189,7 +1189,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/thedare/dare1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1210,7 +1210,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 14:03:17 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1226,7 +1226,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/thedare/dare2.0kag5m46wj.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1247,7 +1247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1271,7 +1271,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/thedare/dare2.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1292,7 +1292,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 02:21:53 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1308,7 +1308,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/thedare/dare3.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1329,7 +1329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 13:53:29 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1345,7 +1345,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/thedare/dare3.q5kijtfsh6.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1366,7 +1366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 13:53:29 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1390,7 +1390,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/thedare/dare4.6le1dtbsdl.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1411,7 +1411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 10:23:20 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1435,7 +1435,7 @@
     },
     {
       "Route": "Media/ArtistPhoto/thedare/dare4.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\ArtistPhoto\\thedare\\dare4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1456,7 +1456,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 10:23:20 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1472,7 +1472,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/Girls.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1493,7 +1493,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 03:30:34 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1509,7 +1509,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/Girls.jxim3m3h5m.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Girls.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1530,7 +1530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 03:30:34 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1554,7 +1554,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/GoodTime.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1575,7 +1575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 05:23:56 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1591,7 +1591,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/GoodTime.yw85tryjde.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\GoodTime.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1612,7 +1612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 05:23:56 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1636,7 +1636,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/Perfume.9donckdeec.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1657,7 +1657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 05:25:22 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1681,7 +1681,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/Perfume.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Perfume.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1702,7 +1702,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 05:25:22 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1718,7 +1718,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/Sex.a54938516x.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1739,7 +1739,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 05:24:50 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1763,7 +1763,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/Sex.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\Sex.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1784,7 +1784,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 05:24:50 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1800,7 +1800,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/YoureInvited.g4uvncv89a.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1821,7 +1821,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 05:25:57 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1845,7 +1845,7 @@
     },
     {
       "Route": "Media/Clips/Cover/TheDare/YoureInvited.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Clips\\Cover\\TheDare\\YoureInvited.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1866,7 +1866,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 05:25:57 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1882,7 +1882,7 @@
     },
     {
       "Route": "Media/Covers/Statick/linkinpark/hybridtheory.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1903,7 +1903,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 09:50:33 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1919,7 +1919,7 @@
     },
     {
       "Route": "Media/Covers/Statick/linkinpark/hybridtheory.q2kji0aj9t.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\hybridtheory.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1940,7 +1940,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 09:50:33 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1964,7 +1964,7 @@
     },
     {
       "Route": "Media/Covers/Statick/linkinpark/meteora.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1985,7 +1985,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 09:58:20 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2001,7 +2001,7 @@
     },
     {
       "Route": "Media/Covers/Statick/linkinpark/meteora.ovjl922g4k.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\linkinpark\\meteora.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2022,7 +2022,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 09:58:20 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2046,7 +2046,7 @@
     },
     {
       "Route": "Media/Covers/Statick/TheDare/SexEP.4s6ds1ytrd.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2067,7 +2067,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2091,7 +2091,7 @@
     },
     {
       "Route": "Media/Covers/Statick/TheDare/SexEP.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\TheDare\\SexEP.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2112,7 +2112,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2128,7 +2128,7 @@
     },
     {
       "Route": "Media/Covers/Statick/TheDare/Whats.2zi15l9eqv.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2149,7 +2149,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2173,7 +2173,7 @@
     },
     {
       "Route": "Media/Covers/Statick/TheDare/Whats.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Covers\\Statick\\TheDare\\Whats.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2194,7 +2194,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+          "Value": "Wed, 04 Jun 2025 10:31:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2210,7 +2210,7 @@
     },
     {
       "Route": "Media/Track/linkinpark/faint.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2231,7 +2231,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 15:57:38 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2247,7 +2247,7 @@
     },
     {
       "Route": "Media/Track/linkinpark/faint.spihvlqr4t.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\linkinpark\\faint.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2268,7 +2268,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 15:57:38 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2292,7 +2292,7 @@
     },
     {
       "Route": "Media/Track/linkinpark/intheend.czdbrv7683.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2313,7 +2313,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 09:47:52 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2337,7 +2337,7 @@
     },
     {
       "Route": "Media/Track/linkinpark/intheend.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\linkinpark\\intheend.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2358,7 +2358,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 26 May 2025 09:47:52 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2374,7 +2374,7 @@
     },
     {
       "Route": "Media/Track/linkinpark/numb.akgsgsn8gt.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2395,7 +2395,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 15:57:37 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2419,7 +2419,7 @@
     },
     {
       "Route": "Media/Track/linkinpark/numb.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\linkinpark\\numb.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2440,7 +2440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 15:57:37 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2456,7 +2456,7 @@
     },
     {
       "Route": "Media/Track/thedare/allnight.aubh6kxwto.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2477,7 +2477,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2501,7 +2501,7 @@
     },
     {
       "Route": "Media/Track/thedare/allnight.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\allnight.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2522,7 +2522,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:30 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2538,7 +2538,7 @@
     },
     {
       "Route": "Media/Track/thedare/bloodwork.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2559,7 +2559,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2575,7 +2575,7 @@
     },
     {
       "Route": "Media/Track/thedare/bloodwork.usdz8v72qw.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\bloodwork.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2596,7 +2596,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2620,7 +2620,7 @@
     },
     {
       "Route": "Media/Track/thedare/elevation.hiccd34gfe.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2641,7 +2641,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2665,7 +2665,7 @@
     },
     {
       "Route": "Media/Track/thedare/elevation.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\elevation.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2686,7 +2686,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2702,7 +2702,7 @@
     },
     {
       "Route": "Media/Track/thedare/girls.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2723,7 +2723,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2739,7 +2739,7 @@
     },
     {
       "Route": "Media/Track/thedare/girls.riki5pod6i.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\girls.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2760,7 +2760,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2784,7 +2784,7 @@
     },
     {
       "Route": "Media/Track/thedare/goodtime.dg5bwm2nzr.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2805,7 +2805,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2829,7 +2829,7 @@
     },
     {
       "Route": "Media/Track/thedare/goodtime.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\goodtime.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2850,7 +2850,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2866,7 +2866,7 @@
     },
     {
       "Route": "Media/Track/thedare/idestroyeddisco.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2887,7 +2887,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2903,7 +2903,7 @@
     },
     {
       "Route": "Media/Track/thedare/idestroyeddisco.xs6ukin2bu.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\idestroyeddisco.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2924,7 +2924,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2948,7 +2948,7 @@
     },
     {
       "Route": "Media/Track/thedare/lca.2w7los3p12.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2969,7 +2969,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2993,7 +2993,7 @@
     },
     {
       "Route": "Media/Track/thedare/lca.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\lca.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3014,7 +3014,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3030,7 +3030,7 @@
     },
     {
       "Route": "Media/Track/thedare/movement.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3051,7 +3051,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3067,7 +3067,7 @@
     },
     {
       "Route": "Media/Track/thedare/movement.pev6d7m4mr.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\movement.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3088,7 +3088,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3112,7 +3112,7 @@
     },
     {
       "Route": "Media/Track/thedare/openup.1uy5ztl08s.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3133,7 +3133,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3157,7 +3157,7 @@
     },
     {
       "Route": "Media/Track/thedare/openup.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\openup.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3178,7 +3178,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3194,7 +3194,7 @@
     },
     {
       "Route": "Media/Track/thedare/perfume.ifuvf3knti.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3215,7 +3215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3239,7 +3239,7 @@
     },
     {
       "Route": "Media/Track/thedare/perfume.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\perfume.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3260,7 +3260,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3276,7 +3276,7 @@
     },
     {
       "Route": "Media/Track/thedare/sex.km4rr78ukl.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3297,7 +3297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3321,7 +3321,7 @@
     },
     {
       "Route": "Media/Track/thedare/sex.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\sex.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3342,7 +3342,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3358,7 +3358,7 @@
     },
     {
       "Route": "Media/Track/thedare/youcanevergohome.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3379,7 +3379,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3395,7 +3395,7 @@
     },
     {
       "Route": "Media/Track/thedare/youcanevergohome.ofa3mvwxke.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\youcanevergohome.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3416,7 +3416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3440,7 +3440,7 @@
     },
     {
       "Route": "Media/Track/thedare/youreinvited.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3461,7 +3461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3477,7 +3477,7 @@
     },
     {
       "Route": "Media/Track/thedare/youreinvited.ozjs0c5qxi.mp3",
-      "AssetFile": "C:\\Users\\user\\Desktop\\GILS_API-master\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
+      "AssetFile": "C:\\Users\\user\\Source\\Repos\\GILS_API\\wwwroot\\Media\\Track\\thedare\\youreinvited.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3498,7 +3498,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 20:26:31 GMT"
+          "Value": "Wed, 04 Jun 2025 10:32:16 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoundPlayerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84516cf9dd874a1097429acb47c86728fd9f4133")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11913a7150844631f853c08edf2675fa5db3bb5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoundPlayerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoundPlayerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

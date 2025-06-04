@@ -394,6 +394,7 @@ public partial class AppDbContext : DbContext
             entity.Property(e => e.FilePath)
                 .HasMaxLength(255)
                 .HasColumnName("file_path");
+            entity.Property(e => e.LrcLyrics).HasColumnName("lrc _lyrics");
             entity.Property(e => e.Lyrics).HasColumnName("lyrics");
             entity.Property(e => e.Produsser).HasMaxLength(255);
             entity.Property(e => e.Title)

@@ -21,6 +21,8 @@ public partial class Track
 
     public string? Produsser { get; set; }
 
+    public string? LrcLyrics { get; set; }
+
     public virtual Album? Album { get; set; }
 
     public virtual ICollection<FavoriteTrack> FavoriteTracks { get; set; } = new List<FavoriteTrack>();
